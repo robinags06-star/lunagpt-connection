@@ -1,0 +1,10 @@
+{
+  "url": "https://dishes-charity-officer-novel.trycloudflare.com",
+  "ws_url": "wss://dishes-charity-officer-novel.trycloudflare.com/ws",
+  "http_status_url": "https://dishes-charity-officer-novel.trycloudflare.com/api/status",
+  "health_url": "https://dishes-charity-officer-novel.trycloudflare.com/health",
+  "local_port": 8766,
+  "auth": "Bearer",
+  "updated_at": "2026-10-06T15:12:28Z",
+  "note": "Quick tunnel URL changes each LunaServer start. Password is the LunaServer Bearer token."
+}
