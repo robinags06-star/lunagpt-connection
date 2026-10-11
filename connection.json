@@ -1,10 +1,10 @@
 {
-  "url": "https://tapes-shed-mention-roommate.trycloudflare.com",
-  "ws_url": "wss://tapes-shed-mention-roommate.trycloudflare.com/ws",
-  "http_status_url": "https://tapes-shed-mention-roommate.trycloudflare.com/api/status",
-  "health_url": "https://tapes-shed-mention-roommate.trycloudflare.com/health",
+  "url": "https://creativity-oklahoma-smaller-stood.trycloudflare.com",
+  "ws_url": "wss://creativity-oklahoma-smaller-stood.trycloudflare.com/ws",
+  "http_status_url": "https://creativity-oklahoma-smaller-stood.trycloudflare.com/api/status",
+  "health_url": "https://creativity-oklahoma-smaller-stood.trycloudflare.com/health",
   "local_port": 8766,
   "auth": "Bearer",
-  "updated_at": "2026-10-06T15:13:05Z",
+  "updated_at": "2026-10-11T07:49:18Z",
   "note": "Quick tunnel URL changes each LunaServer start. Password is the LunaServer Bearer token."
 }
