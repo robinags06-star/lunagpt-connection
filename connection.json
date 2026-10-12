@@ -1,10 +1,10 @@
 {
-  "url": "https://democrat-repair-accountability-solved.trycloudflare.com",
-  "ws_url": "wss://democrat-repair-accountability-solved.trycloudflare.com/ws",
-  "http_status_url": "https://democrat-repair-accountability-solved.trycloudflare.com/api/status",
-  "health_url": "https://democrat-repair-accountability-solved.trycloudflare.com/health",
+  "url": "https://kinds-gibson-powerseller-walks.trycloudflare.com",
+  "ws_url": "wss://kinds-gibson-powerseller-walks.trycloudflare.com/ws",
+  "http_status_url": "https://kinds-gibson-powerseller-walks.trycloudflare.com/api/status",
+  "health_url": "https://kinds-gibson-powerseller-walks.trycloudflare.com/health",
   "local_port": 8766,
   "auth": "Bearer",
-  "updated_at": "2026-10-12T09:53:09Z",
+  "updated_at": "2026-10-12T22:06:39Z",
   "note": "Quick tunnel URL changes each LunaServer start. Password is the LunaServer Bearer token."
 }
