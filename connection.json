@@ -1,10 +1,10 @@
 {
-  "url": "https://kinds-gibson-powerseller-walks.trycloudflare.com",
-  "ws_url": "wss://kinds-gibson-powerseller-walks.trycloudflare.com/ws",
-  "http_status_url": "https://kinds-gibson-powerseller-walks.trycloudflare.com/api/status",
-  "health_url": "https://kinds-gibson-powerseller-walks.trycloudflare.com/health",
+  "url": "https://narrow-collections-protection-klein.trycloudflare.com",
+  "ws_url": "wss://narrow-collections-protection-klein.trycloudflare.com/ws",
+  "http_status_url": "https://narrow-collections-protection-klein.trycloudflare.com/api/status",
+  "health_url": "https://narrow-collections-protection-klein.trycloudflare.com/health",
   "local_port": 8766,
   "auth": "Bearer",
-  "updated_at": "2026-10-12T22:06:39Z",
+  "updated_at": "2026-10-13T16:47:18Z",
   "note": "Quick tunnel URL changes each LunaServer start. Password is the LunaServer Bearer token."
 }
