@@ -1,10 +1,10 @@
 {
-  "url": "https://carolina-rocks-canal-receiver.trycloudflare.com",
-  "ws_url": "wss://carolina-rocks-canal-receiver.trycloudflare.com/ws",
-  "http_status_url": "https://carolina-rocks-canal-receiver.trycloudflare.com/api/status",
-  "health_url": "https://carolina-rocks-canal-receiver.trycloudflare.com/health",
+  "url": "https://pants-bidder-temperature-fit.trycloudflare.com",
+  "ws_url": "wss://pants-bidder-temperature-fit.trycloudflare.com/ws",
+  "http_status_url": "https://pants-bidder-temperature-fit.trycloudflare.com/api/status",
+  "health_url": "https://pants-bidder-temperature-fit.trycloudflare.com/health",
   "local_port": 8766,
   "auth": "Bearer",
-  "updated_at": "2026-10-13T16:49:29Z",
+  "updated_at": "2026-10-19T11:52:56Z",
   "note": "Quick tunnel URL changes each LunaServer start. Password is the LunaServer Bearer token."
 }
