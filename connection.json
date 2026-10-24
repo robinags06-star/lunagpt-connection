@@ -1,10 +1,10 @@
 {
-  "url": "https://pants-bidder-temperature-fit.trycloudflare.com",
-  "ws_url": "wss://pants-bidder-temperature-fit.trycloudflare.com/ws",
-  "http_status_url": "https://pants-bidder-temperature-fit.trycloudflare.com/api/status",
-  "health_url": "https://pants-bidder-temperature-fit.trycloudflare.com/health",
+  "url": "https://merchandise-purse-sol-letters.trycloudflare.com",
+  "ws_url": "wss://merchandise-purse-sol-letters.trycloudflare.com/ws",
+  "http_status_url": "https://merchandise-purse-sol-letters.trycloudflare.com/api/status",
+  "health_url": "https://merchandise-purse-sol-letters.trycloudflare.com/health",
   "local_port": 8766,
   "auth": "Bearer",
-  "updated_at": "2026-10-19T11:52:56Z",
+  "updated_at": "2026-10-24T15:59:49Z",
   "note": "Quick tunnel URL changes each LunaServer start. Password is the LunaServer Bearer token."
 }
